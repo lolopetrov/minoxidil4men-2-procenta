@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /checkout
+Disallow: /thank-you
+Sitemap: https://www.minoxidil4men.com/sitemap.xml
